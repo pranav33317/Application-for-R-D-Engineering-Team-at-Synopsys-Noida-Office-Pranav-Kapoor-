@@ -1,1 +1,20 @@
+Hi, I am Pranav Kapoor ,  a final year ECE student at IIIT Delhi . I believe I am a strong fit for this R&D 12m intern role due to my blend of hands-on project work, research experience, and relevant technical skills.
 
+🔧 1. Proven Technical Skills in System-Level Design and Development
+Processor Design: (https://github.com/pranav33317/RISC-V-5-stage-processor)
+At the AMS Lab, IIIT Delhi, I’m implementing a 3-stage pipelined RISC-V processor with a custom FFT instruction to support biomedical applications. This showcases my understanding of computer architecture, instruction set design, and the ability to adapt open ISAs for specialized tasks.
+OS Concepts & Simulations:
+I’ve built multiple simulations of core OS components:
+A Process Scheduler supporting FIFO, SJF, and SRTF algorithms in C.  ( https://github.com/pranav33317/OS-Scheduler-Simulator/tree/main )
+A Memory Management System with two-level paging and TLB caching in C++. ( https://github.com/pranav33317/Memory-Management-System-Simulation/tree/main )
+These projects show my grasp of low-level systems, memory hierarchy, and scheduling—all vital for systems-level R&D.
+🤖 2. Experience with AI Pipelines and Applied Research ( https://github.com/pranav33317/A2A-Simulator/tree/main )
+At Tech Mahindra, I’m working on a 4-agent LLM pipeline (built with Crew AI) that mimics how IT tickets are resolved using generative AI agents. Each agent has a defined role (ticket parsing, classification, response generation), and we’ve achieved 90–95% accuracy within 6 seconds per query.
+This demonstrates my ability to build scalable, multi-agent AI systems—a valuable skill in AI-focused R&D roles.
+At UIUC, I’m involved in reading and presenting research papers on mutant labeling in software engineering, applying research thinking to real-world software problems.
+📊 3. Strong Analytical Thinking and Statistical Foundations
+In my Handwritten Digit Classifier project, I applied classical techniques like MLE, PCA, FDA, and LDA/QDA to solve a real classification problem via an end to end pipeline built using the MNIST dataset from scratch ( without using any inbuilt ML libraries ).
+🛠️ 4. Skills : 
+Languages: C, C++, Python, Verilog, SQL
+Tools/Concepts: Database Management Systems, Operating Systems, Data Structures and Algorithms, Object Oriented Programming , Computer Architecture ( RISC - V) , MySQL, Tkinter, Basic Machine Learning
+My ability to move across hardware and software workflows gives me versatility to contribute to diverse R&D problems.
