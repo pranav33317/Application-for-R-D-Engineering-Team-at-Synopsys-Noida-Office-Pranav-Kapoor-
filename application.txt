@@ -2,7 +2,7 @@ Hi, I am Pranav Kapoor ,  a final year ECE student at IIIT Delhi . I believe I a
 
 🔧 1. Proven Technical Skills in System-Level Design and Development
 Processor Design: (https://github.com/pranav33317/RISC-V-5-stage-processor)
-At the AMS Lab, IIIT Delhi, I’m implementing a 3-stage pipelined RISC-V processor with a custom FFT instruction to support biomedical applications. This showcases my understanding of computer architecture, instruction set design, and the ability to adapt open ISAs for specialized tasks.
+At the AMS Lab, IIIT Delhi, I’m implementing a 5-stage pipelined RISC-V processor with a custom FFT instruction to support biomedical applications. This showcases my understanding of computer architecture, instruction set design, and the ability to adapt open ISAs for specialized tasks.
 OS Concepts & Simulations:
 I’ve built multiple simulations of core OS components:
 A Process Scheduler supporting FIFO, SJF, and SRTF algorithms in C.  ( https://github.com/pranav33317/OS-Scheduler-Simulator/tree/main )
